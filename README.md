@@ -2,4 +2,4 @@
 
 Practicing javascript.
 
-https://xein-dev.github.io/ImagesCarrousel/
+https://Suarez-dev.github.io/ImagesCarrousel/
